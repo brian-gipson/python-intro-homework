@@ -27,7 +27,7 @@ elif day == "saturday":
     if time == "morning":
         print("Suggestion: Get ready for college football!")
     elif time == "afternoon":
-        print("Suggestion: Get ready for college football!")
+        print("Suggestion: College football is on!")
     else:
         print("Suggestion: Enjoy a movie night.")
 elif day == "sunday":
