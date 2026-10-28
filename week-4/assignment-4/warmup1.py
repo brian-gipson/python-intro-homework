@@ -1,6 +1,6 @@
 # Warmup 1: List Operations
 
-numbers = [5, 12, 20, 38, 41, 56, 61, 78, 99]
+numbers = [5, 12, 20, 41, 56, 61, 78, 99]
 
 print("First: ", numbers[0])
 print("Last: ", numbers[-1])
