@@ -35,3 +35,5 @@ print(f"Top scorer:       {top_name} ({highest_score})")
 print(f"Class average:    {average:.2f}")
 print(f"Subjects offered: {subjects}")
 print(f"High scorers:     {high_scores}")
+
+#learning GITHUB
